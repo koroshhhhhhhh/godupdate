@@ -11,7 +11,7 @@ import sys
 import tempfile
 
 # =========================== SETTINGS ===========================
-BOT_TOKEN = "8967532142:AAETFSGENeEvSPJxHqhMDFvvQhkYLx02rjQ"   # from @BotFather (env var BOT_TOKEN overrides this)
+BOT_TOKEN = "8967532142:AAGbEsgtvL9iZlCGzicmb0pYu6AtMQvmquo"   # from @BotFather (env var BOT_TOKEN overrides this)
 
 MAX_CONCURRENT_JOBS = 3                  # downloads running at the same time (the rest wait in a queue)
 MAX_JOBS_PER_USER = 2                    # active downloads allowed per user
